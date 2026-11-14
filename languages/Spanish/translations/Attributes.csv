@@ -64,7 +64,7 @@ Sublime Damage Bonus,Bonificación de daño sublime
 Axe Damage Bonus,Bonificación de daño del hacha
 Weapon Damage bonuses increase the Damage dealt when using the indicated Weapon type,Las bonificaciones de daño de armas aumentan el daño infligido al usar el tipo de arma indicado.
 Bow Damage Bonus,Bonificación de daño del arco
-Club Damage Bonus,Bonificación de daño del club
+Club Damage Bonus,Bonificación de daño con garrote
 Heavy Weapon Damage Bonus,Bonificación de daño de armas pesadas
 Light Weapon Damage Bonus,Bonificación de daño de armas ligeras
 Medium Weapon Damage Bonus,Bonificación de daño de arma media
@@ -103,7 +103,7 @@ Willpower describes a character’s ability to withstand mind-affecting conditio
 Bonus - Axes,Bono - Hachas
 Critical bonuses increase your critical chance for the indicated weapon type,Las bonificaciones criticas aumentan tu probabilidad critica para el tipo de arma indicado.
 Bonus - Bows,Bono - Arcos
-Bonus - Clubs,Bono - Clubes
+Bonus - Clubs,Bono - Garrotes
 Bonus Light,Luz de bonificación
 This bonus applies to Light Weapons,Esta bonificación se aplica a las armas ligeras.
 Bonus - Blades,Bono - Cuchillas

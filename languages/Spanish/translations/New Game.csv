@@ -28,7 +28,7 @@ Start,Comenzar
 DP,DP
 HP/Lvl,PG/ Nivel
 Magic/Lvl,Magia/ Nvl
-May use any armor,Puede utilizar cualquiera armadura
+May use any armor,Puede utilizar cualquier armadura
 "May use all weapons of type Blade, Axe, Club and Bow","Puede usar todas las armas de tipo Hoja, Hacha, Garrote y Arco"
 "Next, select a CLASS for your character!","A continuación, selecciona una CLASE para tu personaje."
 Classes define a character's role in the party by adding certain exclusive abilities,Las clases definen el papel de un personaje en el grupo añadiendo ciertas habilidades exclusivas.
@@ -59,7 +59,7 @@ The Main Attribute for this Class is Intellect,El atributo principal de esta cla
 CHAMPION,CAMPEON
 Cleric,Clerigo
 The Champion is a Cleric who excels in the use of blades and armor whilst still having limited divine spell-casting abilities,"El Campeón es un Clérigo que sobresale en el uso de espadas y armaduras, al tiempo que posee habilidades limitadas para lanzar hechizos divinos."
-May use all weapons of type Blade and Club,Puede usar todas las armas de tipo Espada y Club
+May use all weapons of type Blade and Club,Puede usar todas las armas de tipo Hoja y Garrote
 GUILD-MAGOS,MAGOS DEL GREMIO
 This comes at the cost of having absolutely no combat related Feats,Esto tiene el coste de no tener ninguna hazaña relacionada con el combate.
 May not wear armor,No puede llevar armadura

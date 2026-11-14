@@ -97,7 +97,7 @@ Vicious,Vicioso
 Axe Damage,Daño de hacha
 Blade Damage,Daño de la hoja
 Bow Damage,Daño del arco
-Club Damage,Daño al club
+Club Damage,Daño con garrote
 Brutal,Brutal
 Heavy Weapon Damage,Daño de arma pesada
 Light Weapon Damage,Daño de arma ligera
@@ -159,7 +159,7 @@ Spirit Magic Focus,Foco magia espiritual
 Axe Accuracy,Precisión del hacha
 Blade Accuracy,Precisión de la cuchilla
 Bow Accuracy,Precisión del arco
-Club Accuracy,Precisión del palo
+Club Accuracy,Precisión con garrote
 General Accuracy,Precisión general
 Heavy Weapon Accuracy,Precisión de armas pesadas
 Light Weapon Accuracy,Precisión de armas ligeras
@@ -288,7 +288,7 @@ Scoring a Critical Hit with a Light Blade causes you to restore 1 Attack,"Si con
 Rapid Reload,Recarga rápida
 "If you score a Critical Hit with a Bow, you immediately regain 1 attack","Si logras un golpe critico con un arco, recuperas inmediatamente 1 ataque."
 Kneecap,Rotula
-Critical Hits with a Club causes The Injured Leg condition,Los golpes críticos con un palo provocan la condición de pierna lesionada.
+Critical Hits with a Club causes The Injured Leg condition,Los golpes críticos con un garrote provocan la condición de pierna lesionada.
 Weaving Blade,Hoja de tejido
 Dodging a Melee Attack whilst armed causes you to deal a small amont of Slashing Damage to your attacker,Esquivar un ataque cuerpo a cuerpo mientras estas armado hace que inflijas una pequeña cantidad de daño cortante a tu atacante.
 Felling Strike,Huelga de tala
